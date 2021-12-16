@@ -13,8 +13,8 @@ int main() {
 	
 	float perimeter = Rhomb_perimeter(arg);
 	float square = Rhomb_square(arg);
-	printf("perimeter = %f", perimeter);
-	printf("square = %f\n", square);
+	printf("perimeter = %f\n", perimeter);
+	printf("square = %f", square);
 	
 	return 0;
 }
