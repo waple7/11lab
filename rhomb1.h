@@ -8,4 +8,4 @@ struct rhomb {
 float Rhomb_square(struct rhomb arg);
 float Rhomb_perimeter(struct rhomb arg);
 
-#endif // RHOMB1
+#endif
